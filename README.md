@@ -1,2 +1,2 @@
 # Game Pokemon C#
-Bài tâpj lớn môn lập trình trực quan
+Bài tập lớn môn lập trình trực quan
